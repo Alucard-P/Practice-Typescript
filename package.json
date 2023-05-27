@@ -6,6 +6,7 @@
   "scripts": {
     "practice": "ts-node ts-practice.ts",
     "practica2": "ts-node practica2.ts",
+    "type": "ts-node ts-type.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
